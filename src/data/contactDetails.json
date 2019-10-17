@@ -1,0 +1,192 @@
+[
+  {
+    "id": "1",
+    "firstname": "Krishna",
+    "lastname": "Yadav",
+    "email": "kana@gmail.com",
+    "phone": 8787878787,
+    "dob": "21-07-1997",
+    "city": "Dwarka",
+    "address": "Shree Dwarkadhish Temple, Dwarka, Gujarat-361335"
+  },
+  {
+    "id": "2",
+    "firstname": "Josephine",
+    "lastname": "Darakjy",
+    "email": "josephine_darakjy@darakjy.org",
+    "phone": 6565656565,
+    "dob": "15-07-1775",
+    "city": "Delhi",
+    "address": "141 e, Siddhartha Building, Nehru Place, Delhi-110019"
+  },
+  {
+    "id": "3",
+    "firstname": "Art",
+    "lastname": "Venere",
+    "email": "art@venere.org",
+    "phone": 4545454545,
+    "dob": "03-06-1997",
+    "city": "Bangalore",
+    "address": "133 /,crs, doddannaindlest, Doddana Indl Estate, Bangalore-560091"
+  },
+  {
+    "id": "4",
+    "firstname": "Lenna",
+    "lastname": "Whobrey",
+    "email": "jbutt@gmail.com",
+    "phone": 2228696809,
+    "dob": "23-03-1975",
+    "city": " Mumbai",
+    "address": "30  Labhkunj Bldg, Lajpatrai Road, Vile Parle West (west), Mumbai, Maharashtra-400056"
+  },
+  {
+    "id": "5",
+    "firstname": "Donette",
+    "lastname": "Slusarski",
+    "email": "chau@gmail.com",
+    "phone": 7373737373,
+    "dob": "12-01-1996",
+    "city": "Ahemedabad",
+    "address": "Manek Chowk Rd, Old City, Danapidth, Khadia, Ahmedabad, Gujarat-380001"
+  },
+  {
+    "id": "6",
+    "firstname": "Simona",
+    "lastname": "Inouye",
+    "email": "tshields@gmail.com",
+    "phone": 3232323232,
+    "dob": "06-11-1995",
+    "city": "Chennai",
+    "address": "31 , Raheja Complex, / Mount Road, Chindadripet, Chennai-600002"
+  },
+  {
+    "id": "7",
+    "firstname": "Mitsue",
+    "lastname": "Stenseth",
+    "email": "jbutt@gmail.com",
+    "phone": 7575757575,
+    "dob": "02-09-1991",
+    "city": "Kolkata",
+    "address": "Sec-1, Bf-45, Salt Lake, Kolkata, West Bengal-700064"
+  },
+  {
+    "id": "8",
+    "firstname": "Leota",
+    "lastname": "Rulapaugh",
+    "email": "ceola.setter@setter.org",
+    "phone": 5858585858,
+    "dob": "17-11-1992",
+    "city": "Surat",
+    "address": "38 th Floor, Gandhi Palace, Nr Jain Derasar, B/h On-Off Showroom, Timaliyawad, Nanpura, Surat, Gujarat-395001"
+  },
+  {
+    "id": "9",
+    "firstname": "Sage",
+    "lastname": "Perin",
+    "email": "jbutt@gmail.com",
+    "phone": 2828282828,
+    "dob": "05-7-1774",
+    "city": "Pune",
+    "address": "38 rd Floor, Tradenet Building, Above Maruti Showroom, Next Phoenix Mall-Nagar Road, Viman Nagar, Pune, Maharashtra-411038"
+  },
+  {
+    "id": "10",
+    "firstname": "Kris",
+    "lastname": "Gillian",
+    "email": "sylvia_cousey@cousey.org",
+    "phone": 1010101010,
+    "dob": "30-02-2000",
+    "city": "Jaipur",
+    "address": "Sitapur Indl Area, Jaipur, Rajasthan-302022"
+  },
+  {
+    "id": "11",
+    "firstname": "Abel",
+    "lastname": "Malet",
+    "email": "jbutt@gmail.com",
+    "phone": 2222222222,
+    "dob": "08-08-1988",
+    "city": "Bhavnagar",
+    "address": "Shop 15 Hou Board, Shastrinagar, Bhavnagar, Gujarat-364003"
+  },
+  {
+    "id": "12",
+    "firstname": "Cammy",
+    "lastname": "Ferencz",
+    "email": "rosio.cork@gmail.com",
+    "phone": 5222614849,
+    "dob": "08-12-2005",
+    "city": "Lucknow",
+    "address": "Unit 13, 3rd Floor, Homawazir Chamber, Naza Market, Hazratganj, Lucknow, Uttar Pradesh-226001"
+  },
+  {
+    "id": "13",
+    "firstname": "Meaghan",
+    "lastname": "Juhas",
+    "email": "annabelle.boord@cox.net",
+    "phone": 9506060420,
+    "dob": "24-04-1996",
+    "city": "Kanpur",
+    "address": "110  MIG, W-Block Juhi, Keshav Nagar, Kanpur, Uttar Pradesh-208014"
+  },
+  {
+    "id": "14",
+    "firstname": "Yuki",
+    "lastname": "Eroman",
+    "email": "deonna_kippley@hotmail.com",
+    "phone": 7552674278,
+    "dob": "01-01-1771",
+    "city": "Bhopal",
+    "address": "Lake View Walk Path, Krishna Nagar, Shymala Hills, Bhopal, Madhya Pradesh-462002"
+  },
+  {
+    "id": "15",
+    "firstname": "Veronika",
+    "lastname": "Crupi",
+    "email": "hillary.skulski@aol.com",
+    "phone": 9999999999,
+    "dob": "18-05-1665",
+    "city": "Patna",
+    "address": "Fraser Road, Near Patna Railway Station Patna Junction, Bihar-800001"
+  },
+  {
+    "id": "16",
+    "firstname": "Maryann",
+    "lastname": "Crupi",
+    "email": "irma.wolfgramm@hotmail.com",
+    "phone": 3939393939,
+    "dob": "22-02-1881",
+    "city": "Vadodara",
+    "address": "244 /, Mangaldeep Complex, B P C Road, B P C Road, Vadodara, Gujarat-390015"
+  },
+  {
+    "id": "17",
+    "firstname": "Allene",
+    "lastname": "Emigh",
+    "email": "jbutt@gmail.com",
+    "phone": 6060606060,
+    "dob": "25-04-1997",
+    "city": "Ludhiana",
+    "address": "Sco183, Sector 8c, Industrial Area Sector 28, Ludhiana, Punjab-160002"
+  },
+  {
+    "id": "18",
+    "firstname": "Willow",
+    "lastname": "Vanheusen",
+    "email": "jbutt@gmail.com",
+    "phone": 5624051345,
+    "dob": "28-02-1995",
+    "city": "Agra",
+    "address": "46 , Mini Gulmohar Enclave Shaheed Nagar, Agra, Uttar Pradesh-282001"
+  },
+  {
+    "id": "19",
+    "firstname": "Ernie",
+    "lastname": "Butt",
+    "email": "arlene_klusman@gmail.com",
+    "phone": 2228364188,
+    "dob": "13-08-1999",
+    "city": "Rajkot",
+    "address": "523 , th Floor, Acme Plaza, Rajkot, Gujarat-360007"
+  } 
+]

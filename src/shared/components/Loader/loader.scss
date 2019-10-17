@@ -1,0 +1,10 @@
+.loader-section {
+  position: fixed;
+  justify-content: center;
+  display: flex;
+  z-index: 8888;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  background-color: rgba(255, 255, 255, 0.6);
+}

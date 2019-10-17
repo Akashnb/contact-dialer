@@ -1,0 +1,39 @@
+.dashboard-section {
+  .my-masonry-grid {
+    display: -webkit-box;
+    display: -ms-flexbox; 
+    display: flex;
+    margin-left: -30px; 
+    width: auto;
+    .my-masonry-grid_column {
+      padding-left: 30px;
+      background-clip: padding-box;
+    }
+  }
+  .card {
+    box-shadow: 0 3px 12px 0 rgba(0, 0, 0, 0.15);
+    .delete-button {
+      position: absolute;
+      top: 15px;
+      right: 25px;
+      cursor: pointer;
+      svg {
+        font-size: 1.5rem;
+      }
+    }
+  }
+  .add-contact-btn {
+    position: fixed;
+    right: 35px;
+    bottom: 35px;
+    z-index: 1000;
+    button {
+      width: 70px;
+      height: 70px;
+      border-radius: 50%;
+      svg {
+        font-size: 2.5rem;
+      }
+    }
+  }
+}

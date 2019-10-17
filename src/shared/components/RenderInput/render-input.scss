@@ -1,0 +1,10 @@
+$red-color: #ff0000;
+
+.input-error {
+  border-color: $red-color;
+}
+
+.text-error {
+  font-size: 0.7rem;
+  color: $red-color;
+}
