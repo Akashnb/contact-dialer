@@ -9,7 +9,7 @@ import {
   MdDelete, MdPhone, MdEmail, MdDateRange, MdEdit,
 } from 'react-icons/md';
 
-import Avatar from '../../assets/images/avatar.png';
+import Avatar from '../../assets/images/avatar1.png';
 
 const ContactCard = ({
   name, city, phone, email, dob, id, deleteContact, address, editContact,

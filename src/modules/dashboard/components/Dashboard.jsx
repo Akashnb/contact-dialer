@@ -6,7 +6,6 @@ import BlockUi from 'react-block-ui';
 
 import ContactCard from '../../../shared/components/ContactCard';
 import ContactForm from './ContactForm/ContactFormContainer';
-// import Loader from '../../../shared/components/Loader/Loader';
 
 const Dashboard = ({
   contactDetails, deleteContact, editContact, contactLoading,
@@ -23,7 +22,6 @@ const Dashboard = ({
       <BlockUi
         tag="div"
         blocking={contactLoading}
-        // loader={<Loader width={3} height={3} />}
         renderChildren={false}
       >
         <Container fluid>
@@ -42,6 +40,7 @@ const Dashboard = ({
                   dob={contact.dob}
                   address={contact.address}
                   id={contact.id}
+                  avatar={contact.avatar}
                   deleteContact={deleteContact}
                   editContact={editContact}
                 />

@@ -14,7 +14,7 @@ export const getContactList = (pageNo = 1, pageSize = 20) => ({
         per_page: pageSize,
         total: contactDetails.length,
       });
-    }, 5000);
+    }, 2000);
   }),
 });
 
@@ -36,6 +36,11 @@ export const editContact = data => ({
 export const deleteContact = id => ({
   type: actionTypes.DELETE_CONTACT,
   payload: id,
+});
+
+export const searchContact = data => ({
+  type: actionTypes.SEARCH_CONTACT,
+  payload: data,
 });
 
 export const showModal = () => ({

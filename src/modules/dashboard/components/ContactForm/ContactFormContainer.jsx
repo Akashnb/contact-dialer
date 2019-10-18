@@ -3,7 +3,9 @@ import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 
 import ContactForm from './ContactForm';
-import { required, matchRegEx, email as emailEx } from '../../../../utils/validators';
+import {
+  required, matchRegEx, email as emailEx, phone, isEqual,
+} from '../../../../utils/validators';
 import * as actions from '../../redux/actions';
 
 const ContactFormContainer = ({
@@ -34,6 +36,10 @@ const ContactFormContainer = ({
       errors.email = !matchRegEx(values.email, emailEx) && 'email is invalid';
     }
     errors.phone = required(values.phone) && 'phoneNo is required';
+    if (!errors.phone) {
+      errors.phone = isEqual(values.phone, phone) && 'number must be 10 digit only';
+      // errors.phone = !matchRegEx(values.phone, numeric) && 'numeric digit only';
+    }
     errors.dob = required(values.dob) && 'dob is required';
     return errors;
   };

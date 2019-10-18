@@ -17,7 +17,7 @@ const ContactForm = ({
 }) => (
   <>
     <div className="add-contact-btn">
-      <Button color="warning" onClick={() => DialogClick()}><MdAdd /></Button>
+      <Button color="danger" onClick={() => DialogClick()}><MdAdd /></Button>
     </div>
     <Modal isOpen={modalShow} fade={false} toggle={() => hideModal()}>
       <ModalHeader toggle={() => hideModal()}>Create New Contact</ModalHeader>

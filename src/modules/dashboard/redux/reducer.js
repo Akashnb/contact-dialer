@@ -57,6 +57,16 @@ export default (state = INITIAL_STATE, action) => {
         ...state,
         currentContact: action.payload || {},
       };
+    case actionTypes.SEARCH_CONTACT:
+      return {
+        ...state,
+        contactList: state.contactList
+          .filter(contact => contact.firstname.includes(action.payload)
+          || contact.city.includes(action.payload)
+          || contact.email.includes(action.payload)
+          || contact.address.includes(action.payload)
+          || contact.dob.includes(action.payload)),
+      };
     case actionTypes.CLEAR_CURRENT_CONTACT:
       return {
         ...state,
