@@ -43,7 +43,6 @@ const ContactFormContainer = ({
     errors.dob = required(values.dob) && 'dob is required';
     return errors;
   };
-
   return (
     <ContactForm
       initialValues={currentContact || {}}

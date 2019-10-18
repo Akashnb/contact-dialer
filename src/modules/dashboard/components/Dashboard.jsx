@@ -22,7 +22,6 @@ const Dashboard = ({
       <BlockUi
         tag="div"
         blocking={contactLoading}
-        renderChildren={false}
       >
         <Container fluid>
           <Masonry

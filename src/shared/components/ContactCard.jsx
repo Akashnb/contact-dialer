@@ -8,6 +8,7 @@ import {
 import {
   MdDelete, MdPhone, MdEmail, MdDateRange, MdEdit,
 } from 'react-icons/md';
+import moment from 'moment';
 
 import Avatar from '../../assets/images/avatar1.png';
 
@@ -27,19 +28,19 @@ const ContactCard = ({
       </Row>
       <CardText className="mb-2">{address}</CardText>
       <div className="d-flex justify-content-between">
-        <CardText className="mb-0">
-          <MdPhone />
+        <CardText className="mb-0 d-flex align-items-center">
+          <MdPhone className="mr-1" />
           {' '}
           {phone}
         </CardText>
-        <CardText className="mb-0">
-          <MdDateRange />
+        <CardText className="mb-0 d-flex align-items-center">
+          <MdDateRange className="mr-1" />
           {' '}
-          {dob}
+          {moment(dob).format('DD/MM/YYYY')}
         </CardText>
       </div>
-      <CardText className="mb-0">
-        <MdEmail />
+      <CardText className="mb-0 d-flex align-items-center">
+        <MdEmail className="mr-1" />
         {' '}
         {email}
       </CardText>

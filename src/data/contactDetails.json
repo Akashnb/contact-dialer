@@ -5,7 +5,7 @@
     "lastname": "Yadav",
     "email": "kana@gmail.com",
     "phone": 8787878787,
-    "dob": "21-07-1997",
+    "dob": "1997-07-21",
     "city": "Dwarka",
     "address": "Shree Dwarkadhish Temple, Dwarka, Gujarat-361335",
     "avatar": "avatar1"
@@ -16,7 +16,7 @@
     "lastname": "Darakjy",
     "email": "josephine_darakjy@darakjy.org",
     "phone": 6565656565,
-    "dob": "15-07-1775",
+    "dob": "1775-07-15",
     "city": "Delhi",
     "address": "141 e, Siddhartha Building, Nehru Place, Delhi-110019",
     "avatar": "avatar2"
@@ -27,7 +27,7 @@
     "lastname": "Venere",
     "email": "art@venere.org",
     "phone": 4545454545,
-    "dob": "03-06-1997",
+    "dob": "1997-06-03",
     "city": "Bangalore",
     "address": "133 /,crs, doddannaindlest, Doddana Indl Estate, Bangalore-560091",
     "avatar": "avatar3"
@@ -38,7 +38,7 @@
     "lastname": "Whobrey",
     "email": "jbutt@gmail.com",
     "phone": 2228696809,
-    "dob": "23-03-1975",
+    "dob": "1975-03-23",
     "city": " Mumbai",
     "address": "30  Labhkunj Bldg, Lajpatrai Road, Vile Parle West (west), Mumbai, Maharashtra-400056",
     "avatar": "avatar4"
@@ -49,7 +49,7 @@
     "lastname": "Slusarski",
     "email": "chau@gmail.com",
     "phone": 7373737373,
-    "dob": "12-01-1996",
+    "dob": "1996-01-12",
     "city": "Ahemedabad",
     "address": "Manek Chowk Rd, Old City, Danapidth, Khadia, Ahmedabad, Gujarat-380001",
     "avatar": "avatar5"
@@ -60,7 +60,7 @@
     "lastname": "Inouye",
     "email": "tshields@gmail.com",
     "phone": 3232323232,
-    "dob": "06-11-1995",
+    "dob": "1995-11-06",
     "city": "Chennai",
     "address": "31 , Raheja Complex, / Mount Road, Chindadripet, Chennai-600002",
     "avatar": "avatar6"
@@ -71,7 +71,7 @@
     "lastname": "Stenseth",
     "email": "jbutt@gmail.com",
     "phone": 7575757575,
-    "dob": "02-09-1991",
+    "dob": "1991-09-02",
     "city": "Kolkata",
     "address": "Sec-1, Bf-45, Salt Lake, Kolkata, West Bengal-700064",
     "avatar": "avatar7"
@@ -82,7 +82,7 @@
     "lastname": "Rulapaugh",
     "email": "ceola.setter@setter.org",
     "phone": 5858585858,
-    "dob": "17-11-1992",
+    "dob": "1992-11-17",
     "city": "Surat",
     "address": "38 th Floor, Gandhi Palace, Nr Jain Derasar, B/h On-Off Showroom, Timaliyawad, Nanpura, Surat, Gujarat-395001",
     "avatar": "avatar8"
@@ -93,7 +93,7 @@
     "lastname": "Perin",
     "email": "jbutt@gmail.com",
     "phone": 2828282828,
-    "dob": "05-7-1774",
+    "dob": "1774-07-05",
     "city": "Pune",
     "address": "38 rd Floor, Tradenet Building, Above Maruti Showroom, Next Phoenix Mall-Nagar Road, Viman Nagar, Pune, Maharashtra-411038",
     "avatar": "avatar9"
@@ -104,7 +104,7 @@
     "lastname": "Gillian",
     "email": "sylvia_cousey@cousey.org",
     "phone": 1010101010,
-    "dob": "30-02-2000",
+    "dob": "2000-02-30",
     "city": "Jaipur",
     "address": "Sitapur Indl Area, Jaipur, Rajasthan-302022",
     "avatar": "avatar10"
@@ -115,7 +115,7 @@
     "lastname": "Malet",
     "email": "jbutt@gmail.com",
     "phone": 2222222222,
-    "dob": "08-08-1988",
+    "dob": "1988-08-08",
     "city": "Bhavnagar",
     "address": "Shop 15 Hou Board, Shastrinagar, Bhavnagar, Gujarat-364003",
     "avatar": "avatar11"
@@ -126,7 +126,7 @@
     "lastname": "Ferencz",
     "email": "rosio.cork@gmail.com",
     "phone": 5222614849,
-    "dob": "08-12-2005",
+    "dob": "2005-12-08",
     "city": "Lucknow",
     "address": "Unit 13, 3rd Floor, Homawazir Chamber, Naza Market, Hazratganj, Lucknow, Uttar Pradesh-226001",
     "avatar": "avatar6"
@@ -137,7 +137,7 @@
     "lastname": "Juhas",
     "email": "annabelle.boord@cox.net",
     "phone": 9506060420,
-    "dob": "24-04-1996",
+    "dob": "1996-04-24",
     "city": "Kanpur",
     "address": "110  MIG, W-Block Juhi, Keshav Nagar, Kanpur, Uttar Pradesh-208014",
     "avatar": "avatar2"
@@ -148,7 +148,7 @@
     "lastname": "Eroman",
     "email": "deonna_kippley@hotmail.com",
     "phone": 7552674278,
-    "dob": "01-01-1771",
+    "dob": "1771-01-01",
     "city": "Bhopal",
     "address": "Lake View Walk Path, Krishna Nagar, Shymala Hills, Bhopal, Madhya Pradesh-462002",
     "avatar": "avatar8"
@@ -159,7 +159,7 @@
     "lastname": "Crupi",
     "email": "hillary.skulski@aol.com",
     "phone": 9999999999,
-    "dob": "18-05-1665",
+    "dob": "1665-05-18",
     "city": "Patna",
     "address": "Fraser Road, Near Patna Railway Station Patna Junction, Bihar-800001",
     "avatar": "avatar11"
@@ -170,7 +170,7 @@
     "lastname": "Crupi",
     "email": "irma.wolfgramm@hotmail.com",
     "phone": 3939393939,
-    "dob": "22-02-1881",
+    "dob": "1881-02-22",
     "city": "Vadodara",
     "address": "244 /, Mangaldeep Complex, B P C Road, B P C Road, Vadodara, Gujarat-390015",
     "avatar": "avatar1"
@@ -181,7 +181,7 @@
     "lastname": "Emigh",
     "email": "jbutt@gmail.com",
     "phone": 6060606060,
-    "dob": "25-04-1997",
+    "dob": "1997-04-25",
     "city": "Ludhiana",
     "address": "Sco183, Sector 8c, Industrial Area Sector 28, Ludhiana, Punjab-160002",
     "avatar": "avatar5"
@@ -192,7 +192,7 @@
     "lastname": "Vanheusen",
     "email": "jbutt@gmail.com",
     "phone": 5624051345,
-    "dob": "28-02-1995",
+    "dob": "1995-02-28",
     "city": "Agra",
     "address": "46 , Mini Gulmohar Enclave Shaheed Nagar, Agra, Uttar Pradesh-282001",
     "avatar": "avatar6"
@@ -203,7 +203,7 @@
     "lastname": "Butt",
     "email": "arlene_klusman@gmail.com",
     "phone": 2228364188,
-    "dob": "13-08-1999",
+    "dob": "1999-08-13",
     "city": "Rajkot",
     "address": "523 , th Floor, Acme Plaza, Rajkot, Gujarat-360007",
     "avatar": "avatar8"
